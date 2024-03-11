@@ -1,4 +1,8 @@
-** 3PointTimedSlew.js**
+The Modern Eddington Experiment 2024
+---
+This repository contains code related to the 2024 Modern Eddington Experiment to be conducted during the total solar eclipse of April 8th.
+
+3PointTimedSlew.js
 ---
 This script can be used to slew a telescope between a calibration field east of an astronomical target, a field centered at the target, and a calibration field west of the target at user determined times (relative to the local system clock) using TheSkyX. Download and save this file to a known location.
 
